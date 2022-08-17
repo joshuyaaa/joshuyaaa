@@ -7,5 +7,5 @@
 
 - 🔭  Focus on offensive security and data development
 - 🌱  Write code, study
-- 👯  wechat: kodalien
+- 👯  person blog : joshuyaaa.github.io
 - 🧑🏻‍💻 🦍 
