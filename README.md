@@ -6,5 +6,5 @@
 </p>
 
 - 🔭  offensive and data stack
-- 👯  person blog : joshuyaaa.github.io
+- 👯  blog : joshuyaaa.github.io
 - 🧑🏻‍💻 
